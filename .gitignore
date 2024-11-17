@@ -1,0 +1,10 @@
+/.documentation
+/.vscode
+/._chapter1
+/glfw3.dll
+/include
+/lib
+/main_debug.exe
+/main_release.exe
+/Makefile
+/Makefile.txt
